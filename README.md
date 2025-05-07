@@ -3,8 +3,12 @@
 ## Project info
 
 **URL**: https://intelion-landing-portal.netlify.app/
+         https://intelion-landing-portal.netlify.app/
 
 
+
+
+![Screenshot 2025-05-07 230300](https://github.com/user-attachments/assets/9c5d775b-e14a-4834-a92c-7dabad79ed16)
 
 Changes made via Lovable will be committed automatically to this repo.
 
